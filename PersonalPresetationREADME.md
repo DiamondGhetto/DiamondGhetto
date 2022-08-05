@@ -4,7 +4,7 @@
         Currently I decided becoming me a Dev so... I'm learning about the Java programming language on the DIO plataform. 
       Before that I was traveled for 3 months around Europe as a Worldpackers volunteer, in that time I had to opportunity to visit 2 countries Republic of Ireland and Netherlands.
 - 💞️ I’m looking for tips how  to learn more faster and this way get a job quickly.
-- 📫 LinkedIn: www.linkedin.com/in/DiamondGhetto
+- [LinkedIn](www.linkedin.com/in/DiamondGhetto)
       
        Discord: DiamondGhetto#0206
 
